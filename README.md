@@ -1,7 +1,9 @@
 # How-To-Make-Superior-24v-Amplifier-Circuit---JLCPCB
 
 Thanks To JLCPCB.
+
 $2 For 1-4 Layer PCBs.
+
 Get SMT Coupons : https://jlcpcb.com/RTA
 
 ------------------------------------------------------
