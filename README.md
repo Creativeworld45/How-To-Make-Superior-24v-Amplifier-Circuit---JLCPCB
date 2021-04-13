@@ -32,8 +32,11 @@ Transistor Pinout :
 To make this 24v amplifier circuit, we are using 3 transistor. We everybody know that, all transistor and mosfet have 3 legs. But this 3 legs have different names. 1st we know the pinout of these 3 transistors.
 
 Transistor Number ----------Type ----------- Pinout
+
         D-1047   ------------ NPN-----------1no Base, 2no Collector, 3no Emitter
+        
         B-817---------------  PNP-----------1no  Base, 2no Collector, 3no Emitter
+        
         BC-547----------------NPN-----------1no  Collector, 2no Base, 3no Emitter
         
 
